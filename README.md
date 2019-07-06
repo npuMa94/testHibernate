@@ -1,0 +1,1 @@
+Maven project, JPA (Hibernate), SWT interface, db HSQLDB
